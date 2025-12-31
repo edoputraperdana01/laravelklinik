@@ -1,0 +1,1 @@
+**Catatan:** Proyek ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web Berbasis Framework dan bertujuan untuk mempraktikkan pengembangan aplikasi web berbasis Laravel.
